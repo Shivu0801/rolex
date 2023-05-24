@@ -3,7 +3,7 @@ class script(object):
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
