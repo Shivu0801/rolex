@@ -4,8 +4,8 @@ class script(object):
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: Cinema 𝚟3.0.0"""
 
@@ -13,8 +13,8 @@ class script(object):
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 👉 : <a href=https://t.me/MaHi_458>𝙼𝙰𝙷𝙴𝚂𝙷.𝚂</a>
 
 DEVS:
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>
-✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/NKMDB>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>"""
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>
+✯ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 : <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴𝚂</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -30,7 +30,7 @@ DEVS:
 
 <code>/batch https://t.me/Cinema_Rockets https://t.me/Cinema_Rockets</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Cinema_Rockets><b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/MOVIEPARTY0><b>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -76,7 +76,7 @@ DEVS:
 ›› /set_template - 𝚂𝙴𝚃 𝙲𝚄𝚂𝚃𝙾𝙼 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙵𝙾𝚁 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁. 
 ›› /get_template - 𝙶𝙴𝚃 𝙲𝚄𝚁𝚁𝙴𝙽𝚃 𝙸𝙼𝙳𝙱 𝚃𝙴𝙼𝙿𝙻𝙰𝚃𝙴 𝙾𝙵 𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁.
 
-**𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>**"""
+**𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>**"""
 
     CONNECTION_TXT = """Help: <b>Connections</b>
 
@@ -185,7 +185,7 @@ By @{} """
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/Cinema_Rockets>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/MOVIEPARTY0>𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴</a>"""
 
     RESTRIC_TXT = """➤ 𝐇𝐞𝐥𝐩: Mᴜᴛᴇ 🚫
 
