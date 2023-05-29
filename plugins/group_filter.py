@@ -133,7 +133,7 @@ async def next_page(bot, query):
             ],
         )
     btn.insert(0, [
-        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/CINEMA_HUB_GROUP1")
+        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/kannadamovies08")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -241,7 +241,7 @@ async def auto_filter(client, msg, spoll=False):
             [InlineKeyboardButton(text="📄 𝗣𝗮𝗴𝗲 1/1", callback_data="pages")]
         )
     btn.insert(0, [
-        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/CINEMA_HUB_GROUP1")
+        InlineKeyboardButton("⭕️ ᴊᴏɪɴ ᴏᴜʀ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ⭕️",url="https://t.me/kannadamovies08")
     ])
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     TEMPLATE = settings['template']
